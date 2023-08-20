@@ -1,0 +1,12 @@
+C:\Source\IeltsApp\IeltsApp.Models\bin\Debug\net7.0\IeltsApp.Models.deps.json
+C:\Source\IeltsApp\IeltsApp.Models\bin\Debug\net7.0\IeltsApp.Models.dll
+C:\Source\IeltsApp\IeltsApp.Models\bin\Debug\net7.0\IeltsApp.Models.pdb
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\IeltsApp.Models.csproj.AssemblyReference.cache
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\IeltsApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\IeltsApp.Models.AssemblyInfoInputs.cache
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\IeltsApp.Models.AssemblyInfo.cs
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\IeltsApp.Models.csproj.CoreCompileInputs.cache
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\IeltsApp.Models.dll
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\refint\IeltsApp.Models.dll
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\IeltsApp.Models.pdb
+C:\Source\IeltsApp\IeltsApp.Models\obj\Debug\net7.0\ref\IeltsApp.Models.dll

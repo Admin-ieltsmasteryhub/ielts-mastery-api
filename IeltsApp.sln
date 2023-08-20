@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IeltsApp", "IeltsApp\IeltsApp.csproj", "{77591421-1403-4FD6-9ED0-98DD398EBB3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IeltsApp.DataAccess", "IeltsApp.DataAccess\IeltsApp.DataAccess.csproj", "{09FAC2EB-6074-4E5D-B287-07F5F03E5EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77591421-1403-4FD6-9ED0-98DD398EBB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77591421-1403-4FD6-9ED0-98DD398EBB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77591421-1403-4FD6-9ED0-98DD398EBB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77591421-1403-4FD6-9ED0-98DD398EBB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09FAC2EB-6074-4E5D-B287-07F5F03E5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FAC2EB-6074-4E5D-B287-07F5F03E5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FAC2EB-6074-4E5D-B287-07F5F03E5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FAC2EB-6074-4E5D-B287-07F5F03E5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC2EFC5-F4C0-4997-BD35-A6490DEF0659}
+	EndGlobalSection
+EndGlobal
