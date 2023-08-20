@@ -10,3 +10,15 @@ C:\Source\IeltsApp\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.dll
 C:\Source\IeltsApp\IeltsApp.DataAccess\obj\Debug\net7.0\refint\IeltsApp.DataAccess.dll
 C:\Source\IeltsApp\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.pdb
 C:\Source\IeltsApp\IeltsApp.DataAccess\obj\Debug\net7.0\ref\IeltsApp.DataAccess.dll
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\bin\Debug\net7.0\IeltsApp.DataAccess.deps.json
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\bin\Debug\net7.0\IeltsApp.DataAccess.dll
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\bin\Debug\net7.0\IeltsApp.DataAccess.pdb
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.csproj.AssemblyReference.cache
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.AssemblyInfoInputs.cache
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.AssemblyInfo.cs
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.dll
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\refint\IeltsApp.DataAccess.dll
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\IeltsApp.DataAccess.pdb
+C:\Source\ielts-mastery-api\IeltsApp.DataAccess\obj\Debug\net7.0\ref\IeltsApp.DataAccess.dll

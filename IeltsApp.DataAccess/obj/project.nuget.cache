@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5TWSZGyuKhaiXCgfa2wwifAj+GSuPVcoYgYTlx/nbhh1rrWpk3XcavDXapUUfYcZO4h8t4D84/MlGJmKSqsYMA==",
+  "dgSpecHash": "n7eOFCtRCePJwPi3aHyvtslkBnU2pYfkaOJXrPl42ZNjHiZZnhj8++TUDtohCaBc50HInfbD9EaufxNLCprCiA==",
   "success": true,
-  "projectFilePath": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
+  "projectFilePath": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

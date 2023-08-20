@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\IeltsApp\\IeltsApp\\IeltsApp.csproj": {}
+    "C:\\Source\\ielts-mastery-api\\IeltsApp\\IeltsApp.csproj": {}
   },
   "projects": {
-    "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj": {
+    "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
         "projectName": "IeltsApp.DataAccess",
-        "projectPath": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
+        "projectPath": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Source\\IeltsApp\\IeltsApp\\IeltsApp.csproj": {
+    "C:\\Source\\ielts-mastery-api\\IeltsApp\\IeltsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\IeltsApp\\IeltsApp\\IeltsApp.csproj",
+        "projectUniqueName": "C:\\Source\\ielts-mastery-api\\IeltsApp\\IeltsApp.csproj",
         "projectName": "IeltsApp",
-        "projectPath": "C:\\Source\\IeltsApp\\IeltsApp\\IeltsApp.csproj",
+        "projectPath": "C:\\Source\\ielts-mastery-api\\IeltsApp\\IeltsApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\IeltsApp\\IeltsApp\\obj\\",
+        "outputPath": "C:\\Source\\ielts-mastery-api\\IeltsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj": {
-                "projectPath": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj"
+              "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj": {
+                "projectPath": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj"
               }
             }
           }
@@ -112,6 +112,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
             "Standard.AI.OpenAI": {
               "target": "Package",
               "version": "[0.6.0, )"

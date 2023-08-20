@@ -975,11 +975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
+      "projectUniqueName": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
       "projectName": "IeltsApp.DataAccess",
-      "projectPath": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
+      "projectPath": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\IeltsApp.DataAccess.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\IeltsApp\\IeltsApp.DataAccess\\obj\\",
+      "outputPath": "C:\\Source\\ielts-mastery-api\\IeltsApp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
