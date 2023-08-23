@@ -23,12 +23,20 @@ builder.Services.AddSingleton<IIeltsMasterDatabaseSettings>(sp => sp.GetRequired
 builder.Services.AddSingleton<IMongoClient>(s => new MongoClient(builder.Configuration.GetValue<string>("IeltsMasterDatabaseSettings:ConnectionString")));
 
 builder.Services.AddScoped<IBlogDatabaseService, BlogDatabaseService>();
+builder.Services.AddCors();
 
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-
+// Shows UseCors with CorsPolicyBuilder.
+app.UseCors(builder =>
+{
+    builder
+    .AllowAnyOrigin()
+    .AllowAnyMethod()
+    .AllowAnyHeader();
+});
 app.UseSwagger();
 app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "IELTS App"); });
 

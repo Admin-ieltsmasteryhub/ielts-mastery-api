@@ -1,5 +1,0 @@
-C:\google-cloud-ai-generativelanguage-v1beta2-csharp\Google.Ai.Generativelanguage.V1Beta2\obj\Debug\netstandard2.1\Google.Ai.Generativelanguage.V1Beta2.csproj.AssemblyReference.cache
-C:\google-cloud-ai-generativelanguage-v1beta2-csharp\Google.Ai.Generativelanguage.V1Beta2\obj\Debug\netstandard2.1\Google.Ai.Generativelanguage.V1Beta2.GeneratedMSBuildEditorConfig.editorconfig
-C:\google-cloud-ai-generativelanguage-v1beta2-csharp\Google.Ai.Generativelanguage.V1Beta2\obj\Debug\netstandard2.1\Google.Ai.Generativelanguage.V1Beta2.AssemblyInfoInputs.cache
-C:\google-cloud-ai-generativelanguage-v1beta2-csharp\Google.Ai.Generativelanguage.V1Beta2\obj\Debug\netstandard2.1\Google.Ai.Generativelanguage.V1Beta2.AssemblyInfo.cs
-C:\google-cloud-ai-generativelanguage-v1beta2-csharp\Google.Ai.Generativelanguage.V1Beta2\obj\Debug\netstandard2.1\Google.Ai.Generativelanguage.V1Beta2.csproj.CoreCompileInputs.cache

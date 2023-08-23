@@ -116,3 +116,8 @@ C:\Source\ielts-mastery-api\IeltsApp\obj\Debug\net7.0\refint\IeltsApp.dll
 C:\Source\ielts-mastery-api\IeltsApp\obj\Debug\net7.0\IeltsApp.pdb
 C:\Source\ielts-mastery-api\IeltsApp\obj\Debug\net7.0\IeltsApp.genruntimeconfig.cache
 C:\Source\ielts-mastery-api\IeltsApp\obj\Debug\net7.0\ref\IeltsApp.dll
+C:\Source\ielts-mastery-api\IeltsApp\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Source\ielts-mastery-api\IeltsApp\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Source\ielts-mastery-api\IeltsApp\bin\Debug\net7.0\System.Web.Http.dll
+C:\Source\ielts-mastery-api\IeltsApp\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Source\ielts-mastery-api\IeltsApp\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
